@@ -15,7 +15,7 @@ Desenvolver um modelo de Machine Learning de classificação para prever o Churn
 * **Linguagem:** Python (Pandas, Numpy, Scikit-Learn).
 * **Estatística:** Análise de correlação e testes de hipóteses.
 * **Modelagem:** Algoritmos de classificação (Random Forest / XGBoost).
-* **Infraestrutura Sugerida:** Este modelo foi pensado para ser implementado via pipeline escalável utilizando **Google Cloud Storage e Vertex AI**.
+* **Infraestrutura Sugerida:** Este modelo foi pensado para ser implementado via pipeline escalável utilizando Google Cloud Storage e Vertex AI.
 
 ## 📊 Estrutura do Projeto
 1.  **EDA (Exploratory Data Analysis):** Identificação de padrões de comportamento e perfis de clientes.
