@@ -1,7 +1,6 @@
 # Customer-Churn-Predictor: Inteligência de Retenção para SaaS
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow)
-![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Machine Learning](https://img.shields.io/badge/ML-Classificação-green)
 ![GCP](https://img.shields.io/badge/Cloud-Google_Cloud_Platform-blue)
 
