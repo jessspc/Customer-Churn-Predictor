@@ -18,12 +18,14 @@ Desenvolver um modelo de Machine Learning de classificação para prever o Churn
 * **Infraestrutura Sugerida:** Este modelo foi pensado para ser implementado via pipeline escalável utilizando Google Cloud Storage e Vertex AI.
 
 ## 📊 Estrutura do Projeto
+
 1.  **EDA (Exploratory Data Analysis):** Identificação de padrões de comportamento e perfis de clientes.
 2.  **Data Preprocessing:** Tratamento de dados nulos, Outliers e *Feature Encoding*.
 3.  **Modelagem:** Treinamento, validação e tunagem de hiperparâmetros.
 4.  **Avaliação:** Análise através de métricas de *Precision*, *Recall* e *F1-Score* para otimização do resultado de negócio.
 
 ## 🏗️ Arquitetura de Produção (GCP)
+
 Como diferencial estratégico, o projeto inclui uma proposta de Cloud:
 * **Ingestão:** BigQuery / Cloud Storage.
 * **Processamento:** Vertex AI Pipelines para automação do ciclo de vida (MLOps).
